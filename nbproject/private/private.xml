@@ -2,14 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/home/arkhitech/my_projects/myspreestore/Gemfile</file>
-            <file>file:/home/arkhitech/my_projects/myspreestore/vendor/assets/stylesheets/spree/frontend/all.css</file>
-            <file>file:/home/arkhitech/my_projects/myspreestore/vendor/assets/stylesheets/spree/backend/all.css</file>
-            <file>file:/home/arkhitech/my_projects/myspreestore/app/overrides/homepage_contents.rb</file>
-            <file>file:/home/arkhitech/my_projects/myspreestore/app/views/Home/homepage_contents.html.erb</file>
-            <file>file:/home/arkhitech/my_projects/myspreestore/app/views/layouts/application.html.erb</file>
-            <file>file:/home/arkhitech/my_projects/myspreestore/app/helpers/application_helper.rb</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
